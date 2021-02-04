@@ -1,2 +1,3 @@
-# trinadhpalla.github.io
-this is my website
+## TRINADH PALLA             
+###  I AM FROM NIDAMARRU
+####  COLLEGE NAME ## SRI VASAVI ENGINEERING COLLEGE
